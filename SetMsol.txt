@@ -2,3 +2,4 @@
 
 Set-MsolUser -UserPrincipalName USERNAME@DOMAIN.onmicrosoft.com -ImmutableId ##IMMUTABLEID##
 Set-MsolUserPrincipalName -UserPrincipalName USERNAME@DOMAIN.onmicrosoft.com -NewUserPrincipalName USERNAME@DOMAIN.WHATEVER
+
